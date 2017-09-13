@@ -11,7 +11,7 @@ Original idea comes from an [Atom Package](https://github.com/chrisgedrim/ti-all
 
 The best way to install is to use [Package Control](http://wbond.net/sublime_packages/package_control) for Sublime Text. Search for "Alloy Related" as the package name.
 
-## Feature & Usage
+## Feature & Usage
 
 This plugin allows you to easily and quickly navigate throw the related Alloy files for a given Controller, View or Style file.
 
