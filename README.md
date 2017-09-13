@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![Package Control](https://img.shields.io/badge/Package%20Control-Alloy%20Related-orange.svg?style=flat)](https://packagecontrol.io/packages/Alloy%20Related)
+[![Package Control](https://img.shields.io/badge/Package%20Control-Titanium%20Alloy%20Related-orange.svg?style=flat)](https://packagecontrol.io/packages/Titanium%20Alloy%20Related)
 
 # Axway Titanium Alloy Related Plugin for Sublime Text 3
 
@@ -9,7 +9,7 @@ Original idea comes from an [Atom Package](https://github.com/chrisgedrim/ti-all
 
 ## Installation
 
-The best way to install is to use [Package Control](http://wbond.net/sublime_packages/package_control) for Sublime Text. Search for "Alloy Related" as the package name.
+The best way to install is to use [Package Control](http://wbond.net/sublime_packages/package_control) for Sublime Text. Search for "Titanium Alloy Related" as the package name.
 
 ## Features & Usage
 
