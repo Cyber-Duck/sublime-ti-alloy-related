@@ -1,0 +1,56 @@
+[
+    {
+        "caption": "Goto",
+        "mnemonic": "n",
+        "id": "goto",
+        "children":
+        [
+            {
+                "caption": "-",
+                "id": "alloy-separator"
+            },
+            {
+                "caption": "Alloy",
+                "mnemonic": "A",
+                "id": "alloy-commands",
+                "children":
+                [
+                    {
+                        "caption": "Open related",
+                        "command": "alloy_related", "args":
+                        {
+                            "type": "all"
+                        }
+                    },
+                    {
+                        "caption": "Open related...",
+                        "children":
+                        [
+                            {
+                                "caption": "Controller",
+                                "command": "alloy_related", "args":
+                                {
+                                    "type": "controller"
+                                }
+                            },
+                            {
+                                "caption": "View",
+                                "command": "alloy_related", "args":
+                                {
+                                    "type": "view"
+                                }
+                            },
+                            {
+                                "caption": "Style",
+                                "command": "alloy_related", "args":
+                                {
+                                    "type": "style"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
